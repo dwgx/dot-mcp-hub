@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dot-mcp-hub",
+  "version": "1.0.0",
+  "description": "Drive a self-hosted MCP hub from a ChatGPT dot: QQ read/send/recall, media, events, and self-iteration."
+}
